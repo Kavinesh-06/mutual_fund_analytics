@@ -19,3 +19,4 @@ df.to_csv(
     "data/processed/nav_history_cleaned.csv",
     index=False
 )
+print(df.shape)
