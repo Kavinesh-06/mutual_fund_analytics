@@ -1,5 +1,0 @@
-import pandas as pd
-
-df = pd.read_csv("01_fund_master.csv")
-
-print(df)
